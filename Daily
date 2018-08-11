@@ -1,0 +1,91 @@
+**********************03-08-2018***************************
+100351338 Successful alerts closed by checking through server
+
+100342991 Successful alerts closed by checking through server
+
+100329676 Successful alerts closed by checking through server
+
+100358772 closed alerts by adding note
+
+100331184 closed alerts by jesni support
+
+100241841 closed alerts by adding note
+
+100354275 closed alerts by adding note
+
+**********************05-08-2018***************************
+
+100329676 Successful alerts closed by checking through server
+
+100357256 Successful alerts closed by checking through server
+
+100236142 Successful alerts closed by checking through server
+
+Avamar alerts closed by checking through iomart Backup Monitoring Console
+
+100338680 alerts closed by checking through iomart Backup Monitoring Console
+
+Backup ID: 7129
+Target: CLBKM10619
+System ID: 100357866
+Start Date: Mon Jul 23 20:01:00 BST 2018
+celdnprod-web01 server did't got credential in wiki as well as in secret
+Wiki link	https://iomart.wiki/display/IHO/100357866-ST-Commercial+Express
+Secret link 	https://secrets.iomart.com/dashboard.aspx#{'tId':371,'fId':-1,'s':'100357866','inSub':false,'tptId':null,'status':'Active'}
+
+Backup ID: 7221
+Target: CLBKM10283
+System ID: 100340890
+Start Date: Sun Jul 29 20:00:00 BST 2018
+alert closed by checking through Control Panel >> Backup >> Administration
+
+Backup ID: 4306
+Target: CLBKM10253
+System ID: 100303393
+Start Date: Thu Aug 02 08:00:00 BST 2018
+Avamar alerts closed by checking through iomart Backup Monitoring Console
+
+Backup ID: 3721
+Target: CLBKM10287
+System ID: 100342389
+Start Date: Tue Jul 31 20:00:00 BST 2018
+Control Panel >> Backup >> Administration 	------>		https://controlpanel.iomarthosting.com/pages/backup_admin?pref=CLBKM10287
+Wiki link	https://iomart.wiki/display/IHO/SDC%3A+100342389+-+KCL+-+AV+to+be+added+to+VM%27s
+Secret link	https://secrets.iomart.com/SecretView.aspx?secretid=4321
+Loggged into server using secret link in avamar client 04/08/2018 job success without error but Control Panel >> Backup >> Administration here latest log is not available, on 31-07-2018 log is their
+
+**********************07-08-2018***************************
+Backup ID: 2646
+Target: CLBKM10149
+System ID: 100271948
+Start Date: Wed Aug 01 09:00:00 BST 2018
+alert closed by checking through iomart Backup Monitoring Console
+
+Backup ID: 3364
+Target: CLBKM10243
+System ID: 100276384
+Start Date: Fri Aug 03 09:00:00 BST 2018
+Control Panel >> Backup >> Administration 	lon-iis-s01.cobragroup.local on this server backup is failed latest log is on 03-08-2018
+In wiki link https://iomart.wiki/display/IHO/100276384+-+Cobra got below info
+LON-IIS-S01 Win 2003 R2	System State	F:	LON-IIS-S01	LON-IIS-S01	Daily - 21:00	2MONTHS	C:\Inetpub\
+Secret link	https://secrets.iomart.com/dashboard.aspx?term=100276384#{'tId':371,'fId':-1,'s':'100276384','inSub':false,'tptId':null,'status':'Active'}
+
+**********************07-08-2018***************************
+100342991 Successful alerts closed by checking through server
+
+100236142 Successful alerts closed by checking through server
+
+Avamar alerts closed by checking through server
+
+Backup ID: 2716
+Target: CLBKM10183
+System ID: 100338983
+Start Date: Mon Aug 06 14:00:00 BST 2018
+Control Panel >> Backup >> Administration  avianweb1.aviand.local server is failed 
+AvianWeb1	Web Server	84.22.188.153	192.168.2.7	8GB	2 vCPU	NFS1 (250GB)	Windows 2008 R2 Std	Domain Administrator, 
+ shall we use this above credential
+
+**********************11-08-2018***************************
+System ID: 100268806,  Package: CLBKM10496 and In Control panel gag_iom_lb01, gag_iom_lb02,  lb-2, lb-1, gag_iom_lb01 and  gag_iom_lb02 these all servers are failed, What shall i do?
+ 
+
